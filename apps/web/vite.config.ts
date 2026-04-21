@@ -5,7 +5,7 @@ import { nxViteTsPaths } from '@nx/vite/plugins/nx-tsconfig-paths.plugin';
 
 export default defineConfig({
   root: __dirname,
-  base: '/drawnix/',
+  base: process.env.BASE_URL || '/',
   cacheDir: '../../node_modules/.vite/apps/web',
 
   server: {
