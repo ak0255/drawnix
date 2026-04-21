@@ -64,8 +64,14 @@ const arTranslations: Translations = {
     "general.undo": "تراجع",
     "general.redo": "إعادة",
     "general.menu": "قائمة التطبيق",
+    "general.moreOptions": "خيارات إضافية",
     "general.duplicate": "تكرار",
     "general.delete": "حذف",
+
+    "general.copyToClipboard": "نسخ إلى الحافظة",
+    "general.copyToClipboard.svg": "SVG",
+    "general.copyToClipboard.pngWithoutBackground": "PNG (بدون خلفية)",
+    "general.copyToClipboard.pngWithBackground": "PNG (مع خلفية)",
 
     // Language
     "language.switcher": "اللغة",
@@ -154,7 +160,7 @@ const arTranslations: Translations = {
   - ما الذي يمكن تشغيله 🐞 🚀
     - إذًا لا تلمسه 🛑 ✋
       - 👾 💥 🏹 🎯
-    
+
   ## ولد أم بنت  👶 ❓ 🤷 ♂️ ♀️
 
   ### Hello world 👋 🌍 ✨ 💻
@@ -168,7 +174,7 @@ const arTranslations: Translations = {
     // Mind map elements text
     "mind.centralText": "الموضوع المركزي",
     "mind.abstractNodeText": "ملخص",
-    
+
     'tutorial.title': 'Drawnix',
     'tutorial.description': 'سبورة شاملة تتضمن الخرائط الذهنية والمخططات الانسيابية والرسم الحر وغير ذلك',
     'tutorial.dataDescription': 'تُحفظ جميع البيانات محليًا في متصفحك',

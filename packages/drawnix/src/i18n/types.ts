@@ -68,8 +68,13 @@ export interface Translations {
   'general.undo': string;
   'general.redo': string;
   'general.menu': string;
+  'general.moreOptions': string;
   'general.duplicate': string;
   'general.delete': string;
+  'general.copyToClipboard': string;
+  'general.copyToClipboard.svg': string;
+  'general.copyToClipboard.pngWithoutBackground': string;
+  'general.copyToClipboard.pngWithBackground': string;
 
   // Language
   'language.switcher': string;

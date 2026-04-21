@@ -64,8 +64,13 @@ const enTranslations: Translations = {
   'general.undo': 'Undo',
   'general.redo': 'Redo',
   'general.menu': 'App Menu',
+  'general.moreOptions': 'More Options',
   'general.duplicate': 'Duplicate',
   'general.delete': 'Delete',
+  'general.copyToClipboard': 'Copy to Clipboard',
+  'general.copyToClipboard.svg': 'SVG',
+  'general.copyToClipboard.pngWithoutBackground': 'PNG (no background)',
+  'general.copyToClipboard.pngWithBackground': 'PNG (with background)',
 
   // Language
   'language.switcher': 'Language',
@@ -155,7 +160,7 @@ const enTranslations: Translations = {
   - What can run 🐞 🚀
     - then do not touch it 🛑 ✋
       - 👾 💥 🏹 🎯
-    
+
   ## Boy or girl 👶 ❓ 🤷 ♂️ ♀️
 
   ### Hello world 👋 🌍 ✨ 💻
